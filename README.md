@@ -1,2 +1,2 @@
 # All-In-Gamblers-Experience
-A repo for the development of All In - A Gambler's Experience Story Development
+To run the project, simply open the `AllInAGamblersExpereince.html` file in any web browser.
